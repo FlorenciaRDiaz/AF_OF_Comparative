@@ -39,7 +39,6 @@ These variations impact global assessment metrics, highlighting the need for ref
 | `DataSource_Fig1.xlsx` to `DataSource_Fig7.xlsx` | Data files used to generate the main manuscript figures. Each corresponds to one figure. |
 | `DataSource_SupFig.xlsx` | Contains the data used for supplementary figures. |
 | `requirements.txt` | Python dependencies for reproducing the figures. |
-| `LICENSE` | Recommended: MIT or CC-BY-4.0 license for open access data/code. |
 
 ---
 ## 📊 Notebooks for Figures and Supplementary Figures
@@ -54,10 +53,12 @@ To reproduce the plots and analysis shown in the main and supplementary figures 
   - NIS (n = 181)
   - SGLT1 (n = 29)
   - SGLT2 (n = 29)
+    
   👉 [Open in Google Colab](https://colab.research.google.com/drive/1_cmLlHairPWm_cYjn8b8csEK_BHOP_3D?usp=chrome_ntp)
 
 - **Suplementary_Figures.ipynb:**  
   Includes figures that support the main results using the same metrics and visualizations.
+  
   👉 [Open in Google Colab](https://colab.research.google.com/drive/1KavQ-f8PxlCaKXeIHLgoP1KQ4LQNN2-R?usp=chrome_ntp)
 
 ---
