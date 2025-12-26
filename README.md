@@ -8,7 +8,7 @@
 ## 🧬 Authors
 
 Florencia R. Díaz<sup>1</sup>, Juan F. Folco<sup>2</sup>, Juana Espain Ceci<sup>1</sup>, Veronica Baronetto<sup>3,4</sup>, Guadalupe Nibeyro<sup>3,4</sup>, Daniela Orschansky<sup>3,4</sup>, Juan P. Nicola<sup>5,6</sup>, Elmer A. Fernández<sup>*1,3,4,7</sup>  
-<sup>*</sup>Corresponding author: [elmer.fernandez@scirelab.org](mailto:elmerfernandez@fpmlab.org.ar)
+<sup>*</sup>Corresponding author: [elmerfernandez@fpmlab.org.ar](mailto:elmerfernandez@fpmlab.org.ar)
 
 ### 📬 Contact
 
